@@ -1,4 +1,6 @@
-## Contact
+<title> Contact </title>
+
+## Contact Info
 
 
 
