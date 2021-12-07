@@ -1,10 +1,9 @@
 ## Contact
 
 
-# Welcome to my portfolio! 
 
 Feel free to contact me whenever! <br>
 ----
 
-Preferably my email! 
+My email is --- Karorastgari45@gmail.com
 ----

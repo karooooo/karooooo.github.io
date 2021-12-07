@@ -8,8 +8,8 @@
 
     }
     body{
-
         font-family: 'Roboto', sans-serif;
+        font-size: "200px";
     }
     footer{
         font-family: 'Raleway', sans-serif;
@@ -37,5 +37,10 @@
     footer{
         color: var(--footer-foreground-color);
         background: var(--footer-background-color);
+       ;
     }
+    img{
+        height: 400px;
+        width: auto;
 
+    }
