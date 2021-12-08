@@ -1,10 +1,10 @@
 <title> My Work </title>
 
 
-<strong> Originally my work was posted on my wix portfolio, heres the orginal link<strong>  (https://krastegari45.wixsite.com/mywork/my-work) 
+ Originally my work was posted on my wix portfolio, heres the orginal link (https://krastegari45.wixsite.com/mywork/my-work) 
 ----
 
- <strong>My Examples!<strong>
+
 
 # #1
 ![shoess](https://user-images.githubusercontent.com/95322428/144935092-72bbf394-624c-4093-bfdc-ce0163b88b8a.png)
